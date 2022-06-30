@@ -2,6 +2,7 @@ baseurl                  = "https://justforzuanzi.github.io"           # Your do
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
+hasCJKLanguage           = true
 title                    = "爱钻子"
 theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
 # theme                  = "sam"                      # install theme locally (git clone or submodule)

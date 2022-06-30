@@ -32,12 +32,11 @@ pygmentsCodefences       = true
 [[params.mainMenu]]
     link = "posts"
     text = "信件"
-
-#[[params.mainMenu]]
-#    link = "gallery"
-#    text = "照片"
 [[params.mainMenu]]
     link = "about"
     text = "时间线"
+[[params.mainMenu]]
+    link = "notes"
+    text = "月记"
 [imaging]
     quality = 75

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 爱钻子</title>
+    <link>http://192.168.2.8:80/tags/</link>
+    <description>Recent content in Tags on 爱钻子</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.2.8:80/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>letter</title>
+      <link>http://192.168.2.8:80/tags/letter/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>http://192.168.2.8:80/tags/love/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>http://192.168.2.8:80/tags/blog/</link>
+      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>http://192.168.2.8:80/tags/code/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>http://192.168.2.8:80/tags/story/</link>
+      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>http://192.168.2.8:80/tags/poem/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classic</title>
+      <link>http://192.168.2.8:80/tags/classic/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>http://192.168.2.8:80/tags/classic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

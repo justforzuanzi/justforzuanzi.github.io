@@ -1,35 +1,16 @@
 ---
-title: "时间线"
+title: "About"
 date: 2018-02-13T13:42:49-05:00
 ---
 
-记录所有的酸甜苦辣
+Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way. I'm [open source on GitHub](https://github.com/victoriadrake/hugo-theme-sam/).
 
-- [x] 2011.00.00 第一次认识 
-- [x] 2021.09.05 第一次加微信
-- [x] 2021.11.20 第一次干饭(本来想吃火锅结果发现满了, 随便吃的)
-- [x] 2021.12.19 第一次吃火锅(重八,表演魔术被无情揭穿)
-- [x] 2022.01.02 第一次看电影&吃烤肉(电影:扬名立万, 魔术:巴格拉斯效果,比较成功)
-- [x] 2022.02.05 第一次来我家, 还带了鸟屎
-- [x] 2022.03.05 第一次我发出看电影邀请，第一次带你来我校食堂吃饭(花束恋爱，超过3次没有表白就是朋友，你还给我带了拼图，虽然被我寄回家了)
-- [x] 2022.03.20 看新蝙蝠侠，我走错电影院。你还给我夹菜，回去就去查星座了，第一次暴露我偷拍你
-- [x] 2022.04.04 第一次去国博，吃了潇湘阁，最好吃的一次(无事发生)
-- [x] 2022.04.09 你尝试邀请我看电影失败(神奇的动物)
-- [x] 2022.05.01 第一次去泡澡，第一次一起玩游戏，第一次躺在一起睡觉，第一次酒后乱性亲你，你第一次懵逼
-- [x] 2022.05.02 第一次亲嘴, 乱抱
-- [x] 2022.05.03 第一次去奥森
-- [x] 2022.05.07 第一次出去住
-- [x] 2022.05.08 第一次交给你我的情书
-- [x] 2022.05.09 送给你我写的歌
-- [x] 2022.05.14 第一次穿大白翻墙找你
-- [x] 2022.05.18 第一次打羽毛球
-- [x] 2022.05.20 吵架
-- [x] 2022.06.02 吵架
-- [x] 2022.06.03 去昌平健身步道
-- [x] 2022.06.13~xxx 同居
-- [x] 2022.06.19 第一次做饭给你吃
-- [x] 2022.06.27 第一次吃药丸
-- [x] 2022.06.29 吵架
+I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
 
- 
+I also have a simple responsive gallery feature. It'll look great on any screen, and all you have to do is provide a folder of images.
 
+If you want to get really fancy, you can add an option video background to my main page.
+
+I'm built and maintained by [Victoria Drake](https://victoria.dev) and a lovely team of [contributors](https://github.com/victoriadrake/hugo-theme-sam/graphs/contributors).
+
+This page uses the default `baseof.html` template.

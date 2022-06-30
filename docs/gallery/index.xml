@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>照片馆 on 爱钻子</title>
-    <link>http://192.168.2.8:80/gallery/</link>
+    <link>https://justforzuanzi.github.io/gallery/</link>
     <description>Recent content in 照片馆 on 爱钻子</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://192.168.2.8:80/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://justforzuanzi.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

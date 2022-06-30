@@ -1,4 +1,4 @@
-baseurl                  = "http://192.168.2.8:80"           # Your domain name
+baseurl                  = "https://justforzuanzi.github.io"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false

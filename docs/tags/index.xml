@@ -25,50 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>blog</title>
-      <link>http://192.168.2.8:80/tags/blog/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>http://192.168.2.8:80/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>http://192.168.2.8:80/tags/code/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>http://192.168.2.8:80/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>story</title>
-      <link>http://192.168.2.8:80/tags/story/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>http://192.168.2.8:80/tags/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poem</title>
-      <link>http://192.168.2.8:80/tags/poem/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>http://192.168.2.8:80/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>classic</title>
-      <link>http://192.168.2.8:80/tags/classic/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
-      
-      <guid>http://192.168.2.8:80/tags/classic/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

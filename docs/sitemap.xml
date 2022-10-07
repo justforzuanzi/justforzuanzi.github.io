@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://justforzuanzi.github.io/notes/202210/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://justforzuanzi.github.io/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://justforzuanzi.github.io/tags/letter/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +21,6 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justforzuanzi.github.io/posts/letter2/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justforzuanzi.github.io/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justforzuanzi.github.io/tags/zuanzi/</loc>

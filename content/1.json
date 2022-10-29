@@ -1,0 +1,858 @@
+{
+    "0": {
+        "plotArray": [],
+        "id": "0",
+        "keyNode": {
+            "id": -1,
+            "content": "请刷新页面重新开始游戏",
+            "leftOption": "拜拜~",
+            "rightOption": "拜拜~",
+            "leftNext": "0",
+            "rightNext": "0"
+        }
+    },
+    "1": {
+        "plotArray": [],
+        "id": "1",
+        "keyNode": {
+            "id": -1,
+            "content": "欢迎来到游戏（宝宝去哪了）。/n请选择你的角色",
+            "leftOption": "钻子",
+            "rightOption": "其他人",
+            "leftNext": "2",
+            "rightNext": "999"
+        }
+    },
+    "2": {
+        "plotArray": [],
+        "id": "2",
+        "keyNode": {
+            "id": -1,
+            "content": "您的职业是（钻子） /n是否开始冒险。",
+            "leftOption": "我还需要等一会",
+            "rightOption": "是",
+            "leftNext": "0",
+            "rightNext": "3"
+        }
+    },
+    "3": {
+        "plotArray": [
+            {
+                "id": 0,
+                "content": "你迷迷糊糊中醒了，包子睡在你旁边，你打开手机想看看有没有消息",
+                "leftOption": "找手机",
+                "rightOption": "找手机"
+            },
+            {
+                "id": 1,
+                "content": "你打开手机，惊讶地发现今天没有收到早安消息",
+                "leftOption": "不会还没醒吧",
+                "rightOption": "发消息质问"
+            },
+            {
+                "id": 2,
+                "content": "你翻遍了联系人也没找到那个熟悉的对象",
+                "leftOption": "怎么回事?",
+                "rightOption": "怎么回事"
+            },
+            {
+                "id": 3,
+                "content": "你找了你熟悉的朋友询问.",
+                "leftOption": "徐洋",
+                "rightOption": "李小雨"
+            },
+            {
+                "id": 4,
+                "content": "她: 你啥时候有过对象，你不是单身主义么",
+                "leftOption": "那我对象呢！",
+                "rightOption": "这个世界有bug"
+            },
+            {
+                "id": 5,
+                "content": "她: 神神叨叨的. 你怕不是做了个梦",
+                "leftOption": "不是梦",
+                "rightOption": "不是梦"
+            },
+            {
+                "id": 6,
+                "content": "你回忆起了过去的点点滴滴/n 你和他一起在水裹洗澡，一起看电影，一起打游戏，他还给你写了情书...",
+                "leftOption": "找找情书",
+                "rightOption": "情书在哪"
+            },
+            {
+                "id": 7,
+                "content": "你在家翻箱倒柜，什么也没找到，似乎没留下一丝痕迹",
+                "leftOption": "似乎有点不对劲",
+                "rightOption": "不太对劲"
+            },
+            {
+                "id": 8,
+                "content": "你准备出去找找，发现桌面似乎有一个水晶球",
+                "leftOption": "摸一下",
+                "rightOption": "踩一下"
+            },
+            {
+                "id": 9,
+                "content": "你碰到水晶球的瞬间，水晶球开始说话了，把你吓了一跳。/n 水晶球: 为什么你能看到我",
+                "leftOption": "什么玩意",
+                "rightOption": "我靠"
+            },
+            {
+                "id": 10,
+                "content": "水晶球: 我是修复世界异常波动的机器。",
+                "leftOption": "说人话?",
+                "rightOption": "?"
+            },
+            {
+                "id": 11,
+                "content": "水晶球: 蝴蝶效应懂吧，如果过去某个时间节点发生的事情没有发生，就会对未来造成改变",
+                "leftOption": "所以呢?",
+                "rightOption": "?"
+            },
+            {
+                "id": 12,
+                "content": "水晶球: 一般人是感受不到这种差异的./n 当有异常扰动发生，一般人是不会保留之前的回忆的/n除非你有极强的思念",
+                "leftOption": "为啥会有这种波动?",
+                "rightOption": "为啥会有这种波动?"
+            },
+            {
+                "id": 13,
+                "content": "水晶球: 因为这个世界是无常的。比如你过去做选择，大到类似于选择去哪上大学，去哪找工作/n小到坐车坐哪一趟，都会对你的人生造成改变，只是后果你感受不到。",
+                "leftOption": "所以?",
+                "rightOption": "所以?"
+            },
+            {
+                "id": 14,
+                "content": "水晶球: 比如你可以选择坐航班A和航班B，航班B最后会失事，那这种小的选择也会影响你的人生",
+                "leftOption": "这么倒霉？",
+                "rightOption": "哦"
+            },
+            {
+                "id": 15,
+                "content": "水晶球: 我猜测应该是某个节点的事件并没有发生，所以世界并没有像你想象那样。",
+                "leftOption": "好的. 至少我还有包子",
+                "rightOption": "那我该怎么办"
+            },
+            {
+                "id": 16,
+                "content": "水晶球: 我可以给你这个机会修复过去的时间节点",
+                "leftOption": "怎么修复",
+                "rightOption": "怎么修复"
+            },
+            {
+                "id": 17,
+                "content": "水晶球: 那当然，我可是有穿越功能的",
+                "leftOption": "穿越?",
+                "rightOption": "穿越?"
+            },
+            {
+                "id": 18,
+                "content": "水晶球: 不过穿越次数有限，时间也很短",
+                "leftOption": "那我得好好利用了",
+                "rightOption": "好的"
+            }
+        ],
+        "id": "3",
+        "keyNode": {
+            "id": -1,
+            "content": "水晶球上出现了一个面板/n 上面显示了几个选项",
+            "leftOption": "开始选择",
+            "rightOption": "开始选择",
+            "leftNext": "4",
+            "rightNext": "4"
+        }
+    },
+    "4": {
+        "plotArray": [
+        ],
+        "id": "4",
+        "keyNode": {
+            "id": -1,
+            "content": "开始你的选择(选过就不要选,剧本是固定的)",
+            "leftOption": "回到高中时期",
+            "rightOption": "回到一年前",
+            "leftNext": "5",
+            "rightNext": "6"
+        }
+    },
+    "5": {
+        "plotArray": [
+            {
+                "id": 0,
+                "content": "水晶球: 你选择回到你的高中时期，时间机器启动/n 你感到天旋地转",
+                "leftOption": "想吐",
+                "rightOption": "脑壳晕了"
+            },
+            {
+                "id": 1,
+                "content": "你落地了/n你端端正正坐在教室里/n讲台上肖培峰正在讲课./n旁边坐着粗鄙",
+                "leftOption": "我靠，真穿越了",
+                "rightOption": "吓人，穿越了"
+            },            
+            {
+                "id": 2,
+                "content": "粗鄙听到了你说的. 转头过来问: 啥?",
+                "leftOption": "梦到我穿越了",
+                "rightOption": "刚做了一个梦"
+            },            
+            {
+                "id": 3,
+                "content": "粗鄙: 和人，高三了还天天做白日梦。你要是真穿越的，可以告诉我未来媳妇叫啥。",
+                "leftOption": "张佩瑶认得不",
+                "rightOption": "张佩瑶"
+            },            
+            {
+                "id": 4,
+                "content": "粗鄙: 不认得. 好看不",
+                "leftOption": "好看",
+                "rightOption": "很开朗"
+            },            
+            {
+                "id": 5,
+                "content": "肖培峰: 上课不要开小差。/n 一个粉笔飞了过来，砸到了你头上",
+                "leftOption": "..乖乖听讲吧",
+                "rightOption": "..."
+            },
+            {
+                "id": 6,
+                "content": "你一边看着书，一边找对象的位置。发现他坐在那边做题。",
+                "leftOption": "等放学",
+                "rightOption": "等放学"
+            },
+            {
+                "id": 7,
+                "content": "中午放学了，你准备回家，发现对象还没走。",
+                "leftOption": "再等等",
+                "rightOption": "再等等"
+            },
+            {
+                "id": 8,
+                "content": "你对象起身了，准备回家，你假装刚好走，顺路跟了上去，拍了拍他肩膀",
+                "leftOption": "宝宝",
+                "rightOption": "宝宝"
+            },
+            {
+                "id": 9,
+                "content": "你对象一脸懵逼/n 对象: 你是在叫我么",
+                "leftOption": "额，叫错了",
+                "rightOption": "喊错了."
+            },
+            {
+                "id": 10,
+                "content": "水晶球在你脑海里提示: 还有最后5分钟.抓紧时间",
+                "leftOption": "我靠，这就没时间了",
+                "rightOption": "这可咋整"
+            },
+            {
+                "id": 11,
+                "content": "对象: 咋了？",
+                "leftOption": "我是你未来的对象",
+                "rightOption": "我是你未来的老婆"
+            },
+            {
+                "id": 12,
+                "content": "然后你把事情经过完完整整说了一遍./n 你对象一脸懵逼",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 13,
+                "content": "你对象: 那你应该知道一些别人不知道的秘密",
+                "leftOption": "你JJ上有2颗痣",
+                "rightOption": "你胸下面有1颗痣"
+            },
+            {
+                "id": 14,
+                "content": "你对象: 啊这，你怎么连这个都知道",
+                "leftOption": "亲他",
+                "rightOption": "亲他"
+            },
+            {
+                "id": 14,
+                "content": "你亲了你对象一口，你对象楞在原地. 没有说什么.",
+                "leftOption": "亲他",
+                "rightOption": "亲他"
+            },
+            {
+                "id": 15,
+                "content": "你亲了他一口，你对象楞在原地。/n随后时间到了。水晶球把你拉了回来。/n一阵天旋地转",
+                "leftOption": "习惯了也就不晕了",
+                "rightOption": "..."
+            },
+            {
+                "id": 16,
+                "content": "回到了现实/n 发现自己依然没有对象。",
+                "leftOption": "质问水晶球",
+                "rightOption": "质问水晶球"
+            },
+            {
+                "id": 17,
+                "content": "水晶球: 这次行动失败了./n 你对象被你吓到了，以为你偷拍他。",
+                "leftOption": "啊这，那我下次老实点吧",
+                "rightOption": "啊这"
+            }
+        ],
+        "id": "5",
+        "keyNode": {
+            "id": -1,
+            "content": "/n 水晶球上重新出现了面板",
+            "leftOption": "选择进入一年前",
+            "rightOption": "选择进入一年前",
+            "leftNext": "6",
+            "rightNext": "6"
+        }
+    },
+    "6": {
+        "plotArray": [
+            {
+            "id": 0,
+            "content": "水晶球: 你选择回到你的一年前，时间机器启动/n 你感到天旋地转",
+            "leftOption": "...",
+            "rightOption": "..."
+        },
+        {
+            "id": 1,
+            "content": "你落地了/n你回到了一年前，你准备",
+            "leftOption": "加上微信再说",
+            "rightOption": "加上微信再说"
+        }          
+        ],
+        "id": "6",
+        "keyNode": {
+            "id": -1,
+            "content": "你找到了微信界面",
+            "leftOption": "添加对象为好友",
+            "rightOption": "添加邱瑞为好友",
+            "leftNext": "7",
+            "rightNext": "4"
+        }
+    },
+    "7": {
+        "plotArray": [
+            {
+                "id": 0,
+                "content": "2021年9.5日凌晨00.27加上了对象的微信/n你回忆了下当时所说的内容",
+                "leftOption": "5g冲浪",
+                "rightOption": "5g冲浪"
+            },
+            {
+                "id": 1,
+                "content": "对象: 你咋加的哟",
+                "leftOption": "你是一毛吗",
+                "rightOption": "你是一毛吗？"
+            },
+            {
+                "id": 2,
+                "content": "对象: 我/n 对象: 是的",
+                "leftOption": "继续唠嗑",
+                "rightOption": "继续唠嗑"
+            },
+            {
+                "id": 3,
+                "content": "接着你按着之前的聊天内容跟我唠嗑/n",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 4,
+                "content": "水晶球: 不错，这是个关键的时间节点，没有加微信后面的都不会发生。/n 时间到了，我要把你拉回来。",
+                "leftOption": "这么快?",
+                "rightOption": "太快了"
+            },
+            {
+                "id": 5,
+                "content": "水晶球: 关键的事件完成了就行，后面的自然会发生",
+                "leftOption": "……",
+                "rightOption": "……"
+            },           
+            {
+                "id": 6,
+                "content": "你回到了现实，发现依然没有对象，不知道哪一步又错了。",
+                "leftOption": "质问水晶球",
+                "rightOption": "质问水晶球"
+            },           
+            {
+                "id": 7,
+                "content": "水晶球: 可能还有别的事件没有达成吧. 你喊他约饭了吗",
+                "leftOption": "穿越到干饭",
+                "rightOption": "穿越到干饭"
+            },           
+            {
+                "id": 8,
+                "content": "水晶球: 开始穿越. 现在回到你第一次干饭的时候",
+                "leftOption": "到了吗",
+                "rightOption": "到了吗"
+            },           
+            {
+                "id": 9,
+                "content": "水晶球: 你已经到了. 穿越到了11.18日/n你打开手机屏幕，跟对象发邀请",
+                "leftOption": "周末干饭",
+                "rightOption": "周末干饭"
+            },           
+            {
+                "id": 10,
+                "content": "对象: 好/n对象:吃火锅还是啥",
+                "leftOption": "等周末再说",
+                "rightOption": "等周末再说"
+            },           
+            {
+                "id": 11,
+                "content": "对象: 好",
+                "leftOption": "万一你鸽我",
+                "rightOption": "万一你鸽我"
+            },           
+            {
+                "id": 12,
+                "content": "接着你们继续有一茬没一茬的聊天，但饭至少还是约上了/n水晶球:该走了.",
+                "leftOption": "屁股都还没坐热",
+                "rightOption": "屁股都还没坐热"
+            },           
+            {
+                "id": 13,
+                "content": "水晶球:还想穿越吗?/n 你心想: 这破玩意bug太多了，找个对象真不容易",
+                "leftOption": "直接穿越到下一次干饭吧.",
+                "rightOption": "直接穿越到下一次干饭吧."
+            },           
+            {
+                "id": 14,
+                "content": "水晶球: 现在来到第二次干饭",
+                "leftOption": "赶紧的",
+                "rightOption": "别墨迹"
+            },           
+            {
+                "id": 15,
+                "content": "你和对象来到了火锅店。对象带了一副牌来想表演扑克.",
+                "leftOption": "装作很好奇的样子",
+                "rightOption": "装作很好奇的样子"
+            },           
+            {
+                "id": 16,
+                "content": "由于你是穿越过来的，你直接就拆穿了这个戏法. /n 你对象很没面子",
+                "leftOption": "安抚一下",
+                "rightOption": "安抚一下"
+            },           
+            {
+                "id": 17,
+                "content": "对象拿出手机准备偷拍你，你选择",
+                "leftOption": "装作没有注意",
+                "rightOption": "让他拍"
+            },           
+            {
+                "id": 18,
+                "content": "水晶球: 到点了. 还穿越么。",
+                "leftOption": "继续穿",
+                "rightOption": "穿"
+            },           
+            {
+                "id": 19,
+                "content": "你感受到周围空间时间的波动，随着biu的一声，你降落到了地上。/n但感觉到了一丝异样，感觉平时看地面的视角没有这么高。",
+                "leftOption": "检查身体",
+                "rightOption": "检查身体"
+            },             {
+                "id": 20,
+                "content": "检查自己身体后发现，自己穿着男性衣服。/n并且下体很沉重，感觉拖了个啥东西。",
+                "leftOption": "去照照镜子",
+                "rightOption": "去照镜子"
+            },             {
+                "id": 21,
+                "content": "照镜子后发现看到的是对象的脸.",
+                "leftOption": "质问水晶球",
+                "rightOption": "质问水晶球"
+            },   {
+                "id": 22,
+                "content": "水晶球:这种情况很罕见，但也不是不可能，但你发挥空间更大了./n反正不是你身体，你可以乱搞",
+                "leftOption": "你可真行",
+                "rightOption": "你可真行"
+            },{
+                "id": 23,
+                "content": "你选择打开手机",
+                "leftOption": "联系吴钻梅",
+                "rightOption": "联系吴钻梅"
+            },{
+                "id": 24,
+                "content": "自己跟自己聊天，感觉有点奇怪。但你还是在手机上打出了：",
+                "leftOption": "去看个电影",
+                "rightOption": "去看个电影"
+            },{
+                "id": 24,
+                "content": "钻子: 我请你看",
+                "leftOption": "别把，你不熟这边电影院",
+                "rightOption": "别把，你不熟这边电影院"
+            },{
+                "id": 25,
+                "content": "..总算是把钻子给约出来了。但是自己约自己的感觉很奇怪",
+                "leftOption": "出发吧",
+                "rightOption": "出发吧"
+            },{
+                "id": 26,
+                "content": "你来到了电影院，买了花束般的恋爱2张票。",
+                "leftOption": "人呢，怎么还不来",
+                "rightOption": "耐心等等吧"
+            },{
+                "id": 27,
+                "content": "电影放到10分钟的时候，钻子终于来了，从第三人称看自己视角确实奇怪",
+                "leftOption": "我靠，这么美",
+                "rightOption": "美到我了"
+            },{
+                "id": 28,
+                "content": "钻子：啥? 没见过美女.",
+                "leftOption": "没. 我没想到我这么美.",
+                "rightOption": "我太美了"
+            },{
+                "id": 29,
+                "content": "钻子：哦哦，原来是自恋",
+                "leftOption": "...",
+                "rightOption": "..."
+            },{
+                "id": 30,
+                "content": "你这个时候才发现，原来在我眼里你魅力这么大。",
+                "leftOption": "再忍忍",
+                "rightOption": "再忍忍"
+            },{
+                "id": 31,
+                "content": "水晶球: 到点了，赶紧去下一个时间节点吧。",
+                "leftOption": "太快了",
+                "rightOption": "原来跟钻子度过的时间会这么快的吗"
+            },{
+                "id": 32,
+                "content": "一阵天旋地转，你又穿越了. 这次还是在对象身上/n时间节点刚好是3.20日中午，你听说周围有人看了蝙蝠侠",
+                "leftOption": "约钻子出来",
+                "rightOption": "约钻子出来"
+            },{
+                "id": 33,
+                "content": "你打开联系人，发现钻子已经被置顶了，我靠，这么狗，这么早就置顶我",
+                "leftOption": "来看蝙蝠侠",
+                "rightOption": "来看蝙蝠侠"
+            },{
+                "id": 34,
+                "content": "钻子: 啥蝙蝠侠",
+                "leftOption": "新蝙蝠侠",
+                "rightOption": "新蝙蝠侠"
+            },{
+                "id": 35,
+                "content": "钻子: 新上映的?",
+                "leftOption": "√",
+                "rightOption": "√"
+            },{
+                "id": 36,
+                "content": "钻子: 搞几点的?",
+                "leftOption": "赶紧来，别洗头.",
+                "rightOption": "赶紧来，别洗头."
+            },{
+                "id": 37,
+                "content": "钻子: 我靠，我3天没洗头你都知道",
+                "leftOption": "笑而不语",
+                "rightOption": "笑而不语"
+            },{
+                "id": 38,
+                "content": "之后你俩一起看了电影. 一起去吃火锅. /n 你发现自己美得令人颤抖",
+                "leftOption": "想亲",
+                "rightOption": "想舔"
+            },{
+                "id": 39,
+                "content": "虽然你想亲，但你克制住了。钻子给你夹菜的动作，让你完全受不鸟了。",
+                "leftOption": "想亲",
+                "rightOption": "想舔"
+            },{
+                "id": 40,
+                "content": "你又克制住了，拿出手机偷拍了几张",
+                "leftOption": "...",
+                "rightOption": "..."
+            },{
+                "id": 41,
+                "content": "水晶球:到时间了，该去下一个时间节点了.",
+                "leftOption": "走吧",
+                "rightOption": "go"
+            },{
+                "id": 42,
+                "content": "随着一阵天选地转. 你落地了/n 你观察了一下周围的环境. 发现自己还在在和钻子一起在水裹的房间里吃晚饭.",
+                "leftOption": "给钻子夹点菜",
+                "rightOption": "给钻子夹点菜"
+            },{
+                "id": 43,
+                "content": "吃完了饭. 你决定不再克制自己的感情. /n已经没法再忍耐了. 但内心还是有担心.",
+                "leftOption": "去喝杯酒吧",
+                "rightOption": "去一杯"
+            },{
+                "id": 44,
+                "content": "接着你俩来到了酒吧. 你点了一杯酒. \n但是我的身体抗酒力强，下肚一点感觉都没有\n 你看着身旁的钻子，娇滴滴的脸庞，实在就想这样亲下去",
+                "leftOption": "再忍忍",
+                "rightOption": "再忍忍"
+            },{
+                "id": 45,
+                "content": "接着大家准备散伙了，美好的一天结束了，再不动手来不及了.\n 你拍了拍钻子，说:",
+                "leftOption": "我给你说悄悄话",
+                "rightOption": "我给你说悄悄话"
+            },{
+                "id": 46,
+                "content": "钻子的脸凑了过来",
+                "leftOption": "狠狠的亲上去",
+                "rightOption": "轻轻的亲上去"
+            },{
+                "id": 47,
+                "content": "钻子懵在了原地. 但你知道这是她必须承受的. /n 你甚至想抱着她乱啃.",
+                "leftOption": "我没啥要解释的.",
+                "rightOption": "你报警抓我吧"
+            },{
+                "id": 48,
+                "content": "钻子没有选择报警，但是在旁边闷闷不乐的./n 但是你完全知道自己在想啥. 所以什么都没说.",
+                "leftOption": "...",
+                "rightOption": "..."
+            },{
+                "id": 49,
+                "content": "钻子: 你刚刚亲我是什么意思",
+                "leftOption": "因为我喜欢你",
+                "rightOption": "美好的蛋糕不亲就可惜了."
+            },{
+                "id": 50,
+                "content": "钻子: 哦?",
+                "leftOption": "...",
+                "rightOption": ".."
+            },{
+                "id": 51,
+                "content": "你也没想到什么合理的解释. 只好按照之前听到的回答. /n 之后两人各回各家各找各妈.",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 52,
+                "content": "水晶球: 你的时间到了, 这是最后一次穿越了.",
+                "leftOption": "嗯嗯",
+                "rightOption": "做吧"
+            },
+            {
+                "id": 53,
+                "content": "水晶球: 最后一次穿越了，准备让你爽爽.",
+                "leftOption": "爽啥?",
+                "rightOption": "一脸懵逼"
+            },
+            {
+                "id": 54,
+                "content": "一阵天旋地转后，你睁开了双眼/n 只见你的怀里抱着钻子，她的头发披散开来，水滴从她那水润的脸颊上滑落.",
+                "leftOption": "这么刺激",
+                "rightOption": "我睡我自己?"
+            },
+            {
+                "id": 55,
+                "content": "来不及解释，你宿主体内的冲动涌上了你的头脑/n 钻子此时就像小奶猫一般在我怀里蹭着，浑身散发着水果味的少女芬芳",
+                "leftOption": "受不鸟了",
+                "rightOption": "男人原来是这种感受"
+            },
+            {
+                "id": 56,
+                "content": "此时的钻子就像一颗还没熟的青苹果，虽然青涩，但汁水丰富",
+                "leftOption": "亲她",
+                "rightOption": "扒了她的裤子，然后亲她"
+            },
+            {
+                "id": 57,
+                "content": "钻子身上的少女水果香味便钻入我的鼻尖，我的心也止不住地跳。亲了好几秒，我终于恋恋不舍地从钻子身上离开。\n此时的我，就好像刚蒸完桑拿一般，感觉浑身都热腾腾地，心也是跟火球一样烫",
+                "leftOption": "继续吧",
+                "rightOption": "再来"
+            },
+            {
+                "id": 58,
+                "content": "接着，我狠狠地吻了上去。如果一开始的钻子只是脸上有一抹云霞\n那现在的钻子就如同熟透了的红苹果，轻轻捏一捏就汁水四溅。",
+                "leftOption": "继续吧",
+                "rightOption": "再来"
+            },
+            {
+                "id": 59,
+                "content": "水晶球:时间到了，我坚持不住了.走吧",
+                "leftOption": "..还没开始就结束了?",
+                "rightOption": "..."
+            }
+        ],
+        "id": "7",
+        "keyNode": {
+            "id": -1,
+            "content": "水晶球上出现了巨大的裂痕，似乎再也不能使用了.",
+            "leftOption": "还能继续使用吗",
+            "rightOption": "还能继续使用吗",
+            "leftNext": "8",
+            "rightNext": "8"
+        }
+    },
+    "8": {
+        "plotArray": [
+            {
+                "id": 0,
+                "content": "你打开了手机联系人，发现你的对象正静悄悄的躺在你的聊天界面中",
+                "leftOption": "我又有对象了",
+                "rightOption": "我又有对象了"
+            },
+            {
+                "id": 1,
+                "content": "对象回来了你开心不已. 但你们还在异地恋. 你选择",
+                "leftOption": "再穿越一次",
+                "rightOption": "再穿越一次"
+            },
+            {
+                "id": 2,
+                "content": "水晶球: 你确定吗，可以穿越，但我只能穿越最后一次了./n不管发生什么都不能反悔",
+                "leftOption": "那我不穿了",
+                "rightOption": "你有别的功能吗"
+            },
+            {
+                "id": 3,
+                "content": "水晶球: 我还能预测未来. 但也只有一次",
+                "leftOption": "未来是啥样",
+                "rightOption": "未来是啥样"
+            },
+            {
+                "id": 4,
+                "content": "水晶球: 在未来你和你对象结婚了，过上了幸福快乐的日子.",
+                "leftOption": "那我知道了",
+                "rightOption": "那我知道了.谢谢你，水晶球"
+            }
+        ],
+        "id": "8",
+        "keyNode": {
+            "id": -1,
+            "content": "水晶球开始消失",
+            "leftOption": "再见",
+            "rightOption": "...",
+            "leftNext": "9",
+            "rightNext": "9"
+        }
+    },
+    "9": {
+        "plotArray": [
+            {
+                "id": 0,
+                "content": "此时对象发来了一条消息: 宝宝/n我好想你",
+                "leftOption": "你个傻几",
+                "rightOption": "我爱你宝宝"
+            },
+            {
+                "id": 1,
+                "content": "虽然你们也会有争吵，但是总会恢复原样.",
+                "leftOption": "我爱你",
+                "rightOption": "我爱你宝宝"
+            },
+            {
+                "id": 2,
+                "content": "你知道在彼此心里，对方都是最重要的人.",
+                "leftOption": "嗯嗯",
+                "rightOption": "那当然"
+            },
+            {
+                "id": 3,
+                "content": "虽然仅仅在一起几个月，但是感觉就像前世就遇见的恋人。",
+                "leftOption": "开火箭",
+                "rightOption": "嗯嗯"
+            },
+            {
+                "id": 4,
+                "content": "我想见你，不远万里",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 5,
+                "content": "虽然你也曾怪我，没有追过你.",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 6,
+                "content": "但我知道我的这份感觉是真心实意的，有你平淡也有了意义.",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 7,
+                "content": "我会在每个见不到你的日子，保持想念。我的一生很短，不介意都给你.",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 8,
+                "content": "两情相悦长久时，又岂在朝朝暮暮。",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 9,
+                "content": "只要确定，未来会有你的陪伴，即使再久的孤独，我也能忍受。",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 10,
+                "content": "我们之间隔着千里，但我们的心却很近。",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 11,
+                "content": "因为是你，所以不管你身在何方，我都愿意等你。",
+                "leftOption": "...",
+                "rightOption": "..."
+            },
+            {
+                "id": 12,
+                "content": "宝宝我爱你",
+                "leftOption": "别说了，吻我",
+                "rightOption": "我也爱你"
+            }
+        ],
+        "id": "9",
+        "keyNode": {
+            "id": -1,
+            "content": "余生只够爱你一人。",
+            "leftOption": "...",
+            "rightOption": "...",
+            "leftNext": "10",
+            "rightNext": "10"
+        }
+    },
+    "10": {
+        "plotArray": [],
+        "id": "10",
+        "keyNode": {
+            "id": -1,
+            "content": "恭喜成功通关! 奖励过关码: 0501 可以用来打开宝箱.",
+            "leftOption": "嗯……好",
+            "rightOption": "好的",
+            "leftNext": "10",
+            "rightNext": "10"
+        }
+    },
+    "997": {
+        "plotArray": [],
+        "id": "997",
+        "keyNode": {
+            "id": -1,
+            "content": "你失去了你男友的消息。",
+            "leftOption": "重新开始",
+            "rightOption": "重新开始",
+            "leftNext": "997",
+            "rightNext": "997"
+        }
+    },
+    "998": {
+        "plotArray": [],
+        "id": "998",
+        "keyNode": {
+            "id": -1,
+            "content": "你的男友在你等待时被别人拐走了。",
+            "leftOption": "……",
+            "rightOption": "……",
+            "leftNext": "998",
+            "rightNext": "998"
+        }
+    },
+    "999": {
+        "plotArray": [],
+        "id": "999",
+        "keyNode": {
+            "id": -1,
+            "content": "对不起，这里不欢迎陌生人。",
+            "leftOption": "拜拜~",
+            "rightOption": "拜拜~",
+            "leftNext": "0",
+            "rightNext": "0"
+        }
+    }
+}

@@ -322,7 +322,7 @@
             "id": -1,
             "content": "你找到了微信界面",
             "leftOption": "添加对象为好友",
-            "rightOption": "添加邱瑞为好友",
+            "rightOption": "添加其他人为好友",
             "leftNext": "7",
             "rightNext": "4"
         }
@@ -349,7 +349,7 @@
             },
             {
                 "id": 3,
-                "content": "接着你按着之前的聊天内容跟我唠嗑/n",
+                "content": "接着你按着之前的聊天内容跟对象唠嗑/n",
                 "leftOption": "...",
                 "rightOption": "..."
             },
@@ -409,7 +409,7 @@
             },           
             {
                 "id": 13,
-                "content": "水晶球:还想穿越吗?/n 你心想: 这破玩意bug太多了，找个对象真不容易",
+                "content": "水晶球:还想穿越吗?",
                 "leftOption": "直接穿越到下一次干饭吧.",
                 "rightOption": "直接穿越到下一次干饭吧."
             },           
